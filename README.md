@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Não
 - ⚡ Fun fact: Sim
 -->
+
+- 🔭 I’m currently working on Não
+- 🌱 I’m currently learning Sim
+- 👯 I’m looking to collaborate on Não
+- 🤔 I’m looking for help with Sim
+- 💬 Ask me about Não
+- 📫 How to reach me: Sim
+- 😄 Pronouns: Não
+- ⚡ Fun fact: Sim
