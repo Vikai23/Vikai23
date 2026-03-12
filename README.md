@@ -16,9 +16,3 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikai23&layout=compact&langs_count=6&theme=dracula"/>
 
 </div>
-
----
-
-## 🌐 Meu GitHub
-
-🔗 https://github.com/Vikai23
