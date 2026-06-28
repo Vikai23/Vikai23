@@ -25,14 +25,6 @@ Busco minha primeira oportunidade de estágio em **Desenvolvimento Web** ou **De
 
 ---
 
-## Atualmente
-
-* Desenvolvendo projetos acadêmicos e pessoais para fortalecer minha base prática.
-* Estudando desenvolvimento web, APIs REST, banco de dados e boas práticas de organização de código.
-* Buscando evoluir com projetos reais, trabalho em equipe e experiência profissional.
-
----
-
 ## Estatísticas
 
 <div align="center">
