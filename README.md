@@ -85,4 +85,5 @@ API REST de reviews musicais desenvolvida como projeto acadêmico individual. O 
 ## Contato
 
 **LinkedIn:** https://www.linkedin.com/in/vin%C3%ADcius-alves-e-sousa-564baa265/
+
 **E-mail:** [vinialvesesousa@gmail.com](mailto:vinialvesesousa@gmail.com)
