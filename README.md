@@ -1,10 +1,4 @@
-# Vinícius Alves e Sousa
 
-Estudante de **Sistemas para Internet** no Senac, com formação anterior em **Análise e Desenvolvimento de Sistemas** pelo Senai.
-
-Busco minha primeira oportunidade de estágio em **Desenvolvimento Web** ou **Desenvolvimento de Software**, com interesse principalmente em **back-end**, APIs REST, banco de dados e integração entre front-end e back-end.
-
----
 
 ## Tecnologias
 
